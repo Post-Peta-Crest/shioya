@@ -45,7 +45,7 @@ In this project, LexADV, an open source software library, is developed for the e
 ![f3]({{ site.baseurl }}/img/fig03.jpg)
 
 # Examples of Numerical Simulation
-Tsunami running-up and inundated simulation for Fukushima Daiichi Nuclear Power Station\using explicit MPS method and dynamically load balancing technique
+Tsunami running-up and inundated simulation for Fukushima Daiichi Nuclear Power Station using explicit MPS method and dynamically load balancing technique
 
 ![f4]({{ site.baseurl }}/img/fig04.jpg)
 
