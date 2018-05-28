@@ -11,7 +11,7 @@ title: Development of a Numerical Library based on Hierarchical Domain Decomposi
 
 # Published Software
 
-* [LexADV Library](https://adventure.sys.t.u-tokyo.ac.jp/lexadv/)
+* [LexADV Library](https://adventure.sys.t.u-tokyo.ac.jp/lexadv/): LexADV is a free, open-source software for large-scale numerical simulations of continuum mechanics problems.
 
 ---
 
