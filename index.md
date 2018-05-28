@@ -45,13 +45,12 @@ In this project, LexADV, an open source software library, is developed for the e
 ![f3]({{ site.baseurl }}/img/fig03.jpg)
 
 # Examples of Numerical Simulation
-Tsunami running-up and inundated simulation for Fukushima Daiichi Nuclear Power StationÅ\using explicit MPS method and dynamically load balancing technique
+Tsunami running-up and inundated simulation for Fukushima Daiichi Nuclear Power Station¬Å\using explicit MPS method and dynamically load balancing technique
 
 ![f4]({{ site.baseurl }}/img/fig04.jpg)
 
 # Project members:
 
 Ryuji Shioya (Toyo Univ.), Masao Ogino (Nagoya Univ.), Seiichi Koshizuka (Univ. of Tokyo), Hiroshi Kawai, Yasushi Nakabayashi, Hongjie Zheng (Toyo Univ.), Yoshitaka Wada (Kindai Univ.), Amane Takei (Univ. of Miyazaki), Daisuke Tagami (Kyushu Univ.), A.M.M. Mukaddes (SUST), Shin-ichiro Sugimoto, Yasunori Yusa (Tokyo Univ. of Science), Hiroshi Kanayama (Japan Women's Univ.)
-Contact: shioya@toyo.jp
 
 ![f5]({{ site.baseurl }}/img/fig05.jpg)
